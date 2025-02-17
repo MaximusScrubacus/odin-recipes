@@ -1,1 +1,2 @@
 # odin-recipes
+This repository will my first 'solo' project thus far into my time with Odin. I will be using all the skills I have learnt so far from, Html boiler plates, to using git and commit. I look forward to this project. :) 
